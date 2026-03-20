@@ -5,9 +5,7 @@ const curriculum = {
     title: "Digital Assets: A Curriculum for Policymakers",
     subtitle: "College of Europe, Bruges",
     meta: "Last updated March 2026",
-    description: `This is the open-access reading list and reference curriculum for the Digital Assets course taught at the College of Europe in Bruges, Belgium.
-
-The College of Europe was founded in 1949 by founding fathers of the European Union including Winston Churchill, Salvador de Madariaga, Paul-Henri Spaak, and Alcide De Gasperi to train the next generation of European leaders. Its alumni hold positions across the European Commission, the European Central Bank, the European Investment Bank, national governments, and regulatory bodies throughout Europe and beyond. Many are playing active roles in shaping MiCA, the Digital Euro, and other digital finance policies.
+    description: `This is the open-access reading list and reference curriculum for the Digital Assets course taught at the College of Europe in Bruges, Belgium. The College of Europe was founded in 1949 by founding fathers of the European Union including Winston Churchill, Salvador de Madariaga, Paul-Henri Spaak, and Alcide De Gasperi to train the next generation of European leaders. Its alumni hold positions across the European Commission, the European Central Bank, the European Investment Bank, national governments, and regulatory bodies throughout Europe and beyond. Many are playing active roles in shaping MiCA, the Digital Euro, and other digital finance policies.
 
 This curriculum was designed for that audience: people who will write, interpret, implement, and enforce the rules governing digital financial markets. It is not an introduction for retail investors, a technical guide for developers, or a pitch for any particular technology. It is a framework to help policymakers understand the forces (technological, economic, cultural, and political) that are reshaping financial infrastructure.
 
@@ -15,13 +13,13 @@ The materials deliberately include both advocates and critics. The Bullish Case 
 
 The curriculum is organized in four units: the technological foundations of crypto, the emerging tokenized economy, the crowd psychology and narrative economics that drive financial markets, and the digital asset policy frameworks being built around the world. Each unit combines foundational research, books, essays, manifestos, and video resources.
 
-I maintain and update this curriculum based on how the field evolves. It is shared here as a public good. If you find it useful, whether you are a policymaker, a researcher, a journalist, an industry executive, a student, or simply someone trying to make sense of this space, you are welcome to use it, share it, provide feedback, and build on it.`
+I maintain and update this curriculum annually based on how the field evolves. It is shared here as a public good. If you find it useful, whether you are a policymaker, a researcher, a journalist, an industry executive, a student, or simply someone trying to make sense of this space, you are welcome to use it, share it, provide feedback, and build on it.`
   },
   lectureNotes: [
     { unit: "Unit 1", title: "Introduction and Crypto Fundamentals", topics: "Innovation and Technology Paradigm Shifts · Introduction to Bitcoin · Crypto and Price-Innovation Cycles · Programmable Blockchains", url: "https://drive.google.com/file/d/1JPGNpOLESBV7sRj0sNd3Dmej3_qZlFmo/view" },
     { unit: "Unit 2", title: "Tokenized Economy", topics: "Onchain Finance · Onchain Governance, DAOs & Prediction Markets · Onchain Identity, NFTs, Memecoins & AI Agents", url: "https://drive.google.com/file/d/1K1QTIPDt-HVcxFDy6eGvb5RcWsUY6SZQ/view" },
-    { unit: "Unit 3", title: "Online Communities & Meme Investing", topics: "Online Subcultures & Crowd Psychology (of Money) · Narrative Economics & Meme Investing · Case Study: r/wallstreetbets vs. GameStop", url: "https://drive.google.com/file/d/1sGh4sHyyZ-16yaid9DygcH4u-2cArw1m/view" },
-    { unit: "Unit 4", title: "Digital Assets Policy", topics: "Markets in Crypto-Assets in the EU and Digital Euro · Regulatory Frameworks Around the World · Geopolitics of Digital Assets · Nation States vs. Network States", url: "https://drive.google.com/file/d/1O7fsl--Er1lBYMrpm2uOgFKigISarSh6/view" }
+    { unit: "Unit 3", title: "Online Communities & Meme Investing", topics: "Online Subcultures & Crowd Psychology · Narrative Economics & Meme Investing · Case Study: r/wallstreetbets vs. GameStop", url: "https://drive.google.com/file/d/1sGh4sHyyZ-16yaid9DygcH4u-2cArw1m/view" },
+    { unit: "Unit 4", title: "Digital Assets Policy", topics: "MiCA and the Digital Euro · Regulatory Frameworks Around the World · Geopolitics of Digital Assets · Nation States vs. Network States", url: "https://drive.google.com/file/d/1O7fsl--Er1lBYMrpm2uOgFKigISarSh6/view" }
   ],
   units: [
     {
@@ -53,7 +51,7 @@ I maintain and update this curriculum based on how the field evolves. It is shar
             { cat: "Essay", title: "Bitcoin: The Greatest Scam Never Told", author: "Jacob King (WhaleWire)", desc: "Bitcoin has been sold as the future of money (an alleged decentralized revolution free from government and central bank control), but beneath the surface a different story emerges: roots in gambling, market manipulation, hidden players, and manias propped up by smoke and mirrors.", url: "https://mail.whalewire.org/p/bitcoin-the-greatest-scam-never-told-7039" },
             { cat: "Essay", title: "Money, Blockchains and Social Scalability", author: "Nick Szabo", desc: "The key thesis is that the secret to Bitcoin's success is not its computational efficiency or its scalability in the consumption of resources, but something more valuable: social scalability, the ability of an institution to motivate or constrain who or how many can successfully participate.", url: "https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html" },
             { cat: "Video", title: "Why Bitcoin Matters & Why You Should Care", author: "Till Musshoff", desc: "Bitcoin has a profound impact on our understanding of how the economy works and at the same time the technology behind it is an incredible achievement in the field of distributed systems. This video will give you an overview of Bitcoin from technological, economical and ethical perspectives.", url: "https://www.youtube.com/watch?v=Ai5z2T4WhWg" },
-            { cat: "Video", title: "10 Years of Bitcoin: Evaluating its Performance as a Monetary System", author: "Nic Carter", desc: "A review of the first decade of Bitcoin and an assessment of its long term sustainability as a monetary system presented at the 2019 Bitcoin Expo held at the MIT.", url: "https://www.youtube.com/watch?v=AyOyNF-bCkA" },
+            { cat: "Video", title: "10 Years of Bitcoin: Evaluating its Performance as a Monetary System", author: "Nic Carter (MIT Bitcoin Expo)", desc: "A review of the first decade of Bitcoin and an assessment of its long term sustainability as a monetary system presented at the 2019 Bitcoin Expo held at the MIT.", url: "https://www.youtube.com/watch?v=AyOyNF-bCkA" },
             { cat: "Video", title: "Bitcoin Strategy", author: "Michael Saylor (MicroStrategy)", desc: "A three-minute pitch on why Microsoft should spend $100 billion a year to buy Bitcoin, delivered by MicroStrategy's Chairman & Co-founder (and maximalist Bitcoin advocate) Michael Saylor.", url: "https://www.youtube.com/watch?v=cH2t6VOdgkE" }
           ]
         },
@@ -164,7 +162,7 @@ I maintain and update this curriculum based on how the field evolves. It is shar
             { cat: "Regulation", title: "DeFi and the American Spirit", author: "SEC Chairman Paul Atkins", desc: "This speech states that current regulations focused on intermediaries do not contemplate self-executing software, and asks for an \"innovation exemption\" framework for onchain products.", url: "https://x.com/SECGov/status/1932137708068970924" },
             { cat: "Regulation", title: "Guiding and Establishing National Innovation for U.S. Stablecoins Act", author: "US Senator Bill Hagerty", desc: "The GENIUS Act sets rules for stablecoin issuers in the US, and is the first major digital assets bill to ever be cleared by the US Senate (by an overwhelming bipartisan vote).", url: "https://www.congress.gov/bill/119th-congress/senate-bill/1582/text" },
             { cat: "Regulation", title: "Statement on Tokenized Securities", author: "US Securities and Exchange Commission", desc: "This statement clarifies that tokenized securities are securities under federal law, with regulatory treatment depending on whether they represent direct ownership, or synthetic exposure.", url: "https://www.sec.gov/newsroom/speeches-statements/corp-fin-statement-tokenized-securities-012826" },
-            { cat: "Regulation", title: "Regulations & Guidelines", author: "Dubai's Virtual Assets Regulatory Authority", desc: "VARA is the world's first, tailor-made digital asset regime, and it sets out a comprehensive framework built on principles of economic sustainability and cross-border financial security.", url: "https://rulebooks.vara.ae" },
+            { cat: "Regulation", title: "VARA Regulations & Guidelines", author: "Dubai's Virtual Assets Regulatory Authority", desc: "VARA is the world's first, tailor-made digital asset regime, and it sets out a comprehensive framework built on principles of economic sustainability and cross-border financial security.", url: "https://rulebooks.vara.ae" },
             { cat: "Paper", title: "Policy Briefs", author: "Crypto Council for Innovation", desc: "A collection of analysis of crypto policies around the world and recommendations to shape informed and forward thinking policies.", url: "https://cryptoforinnovation.org/policy-briefs/" },
             { cat: "Book", title: "The Network State", author: "Balaji Srinivasan", desc: "Technology has enabled us to start new companies, new communities, and new currencies. We can also use it to start new cities, or even new countries. This book explains how to build network states, the successors to the nation state.", url: "https://thenetworkstate.com" },
             { cat: "Essay", title: "The Digital Euro and the Structural Reform of Money and Banking", author: "Miguel Fernández Ordóñez", desc: "Notes by the former Governor of the Bank of Spain for a public hearing at the European Parliament, arguing that the Digital Euro can both provide a single digital currency for the Eurozone, open up payments and credit markets to competition, prevent banking crises, and improve monetary policy.", url: "https://www.europarl.europa.eu/cmsdata/279073/2.%20Miguel%20FERNANDEZ%20ORDONEZ%20-%20Introductory%20statement.pdf" },
@@ -243,7 +241,7 @@ function ReadingItem({ item }) {
 }
 
 export default function App() {
-  const [page, setPage] = useState("home");
+  const [page, setPage] = useState("curriculum");
   const [expandedUnit, setExpandedUnit] = useState(null);
 
   const st = {
@@ -265,8 +263,8 @@ export default function App() {
 
   const nav = (
     <nav style={{ display: "flex", gap: 24, marginBottom: 48, paddingBottom: 16, borderBottom: "2px solid var(--text-primary)" }}>
-      <span onClick={() => { setPage("home"); setExpandedUnit(null); }} style={{ cursor: "pointer", fontSize: 13, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", color: page === "home" ? "var(--text-primary)" : "var(--text-tertiary)" }}>Home</span>
       <span onClick={() => { setPage("curriculum"); setExpandedUnit(null); }} style={{ cursor: "pointer", fontSize: 13, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", color: page === "curriculum" ? "var(--text-primary)" : "var(--text-tertiary)" }}>Curriculum</span>
+      <span onClick={() => { setPage("home"); setExpandedUnit(null); }} style={{ cursor: "pointer", fontSize: 13, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", color: page === "home" ? "var(--text-primary)" : "var(--text-tertiary)" }}>About</span>
     </nav>
   );
 
@@ -278,20 +276,18 @@ export default function App() {
         <p style={{ fontSize: 16, color: "var(--text-secondary)", marginBottom: 40, lineHeight: 1.6, fontFamily: "system-ui, sans-serif" }}>
           General Manager for Europe at <a href="https://backpack.exchange" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>Backpack</a>, a regulated digital assets exchange and self-custodial wallet. Visiting Professor of Digital Assets at the <a href="https://www.coleurope.eu" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>College of Europe</a> in Bruges. Ambassador of the <a href="https://solana.org" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>Solana Foundation</a>.
         </p>
-
         <div style={{ marginBottom: 48 }}>
           <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 16, color: "var(--text-secondary)" }}>About</h2>
           <div style={{ fontSize: 16, lineHeight: 1.7, color: "var(--text-secondary)", fontFamily: "system-ui, sans-serif" }}>
             <p style={{ marginBottom: 16 }}>I build, scale, and operate technology-driven financial businesses in regulated markets.</p>
-            <p style={{ marginBottom: 16 }}>Currently leading Backpack's expansion into Europe, from pre-launch to live operations across the European Economic Area under MiFID II and more. Previously, I built and scaled distribution for Atani, a regulated European virtual assets service provider. Earlier, I led transformation programs and digital business building initiatives for global financial institutions as a Managing Director at The Cocktail (WPP) and as a strategy consultant at Boston Consulting Group.</p>
+            <p style={{ marginBottom: 16 }}>Currently building Backpack's business in Europe, from pre-launch to live operations across the European Economic Area under MiFID II, and beyond. Previously, I built and scaled distribution for Atani, a regulated European virtual assets service provider. Earlier, I led transformation programs and digital business building initiatives for global financial institutions as a Managing Director at The Cocktail (WPP) and as a strategy consultant at Boston Consulting Group.</p>
             <p>At the College of Europe, I introduce future European policymakers and regulators to digital assets, programmable blockchains, decentralized finance, tokenization, and global crypto policy frameworks. The full curriculum is <span onClick={() => setPage("curriculum")} style={{ textDecoration: "underline", cursor: "pointer", color: "var(--text-primary)" }}>available as a public resource</span>.</p>
           </div>
         </div>
-
         <div style={{ marginBottom: 48 }}>
           <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 16, color: "var(--text-secondary)" }}>Selected Writing</h2>
           {[
-            { t: "No One Cares About Your Vision", u: "https://mikelayala.medium.com/no-one-cares-about-your-vision-just-chew-glass-and-keep-shipping-faa83cc6c4b0" },
+            { t: "No One Cares About Your Vision (Just Chew Glass and Keep Shipping)", u: "https://mikelayala.medium.com/no-one-cares-about-your-vision-just-chew-glass-and-keep-shipping-faa83cc6c4b0" },
             { t: "Navigating Crypto Chaos", u: "https://mikelayala.medium.com/navigating-crypto-chaos-dac2f2ce4e63" },
             { t: "Is Crypto Dead?", u: "https://medium.datadriveninvestor.com/is-crypto-dead-bfddbfc8dde1" },
             { t: "Memetic Investment Tribes", u: "https://mikelayala.medium.com/memetic-investment-tribes-aae743f98a6c" },
@@ -302,7 +298,6 @@ export default function App() {
             </a>
           ))}
         </div>
-
         <div>
           <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 16, color: "var(--text-secondary)" }}>Contact</h2>
           <div style={{ fontSize: 15, lineHeight: 2, fontFamily: "system-ui, sans-serif", color: "var(--text-secondary)" }}>
@@ -322,11 +317,9 @@ export default function App() {
       <h1 style={{ fontSize: 32, fontWeight: 400, marginBottom: 4, lineHeight: 1.2 }}>{curriculum.intro.title}</h1>
       <p style={{ fontSize: 15, color: "var(--text-tertiary)", marginBottom: 6, fontFamily: "system-ui, sans-serif" }}>{curriculum.intro.subtitle}</p>
       <p style={{ fontSize: 13, color: "var(--text-tertiary)", marginBottom: 36, fontFamily: "system-ui, sans-serif" }}>{curriculum.intro.meta}</p>
-
       <div style={{ fontSize: 15, lineHeight: 1.75, color: "var(--text-secondary)", marginBottom: 48, fontFamily: "system-ui, sans-serif", whiteSpace: "pre-line" }}>
         {curriculum.intro.description}
       </div>
-
       <div style={{ marginBottom: 48 }}>
         <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 20, color: "var(--text-secondary)" }}>Lecture Notes</h2>
         {curriculum.lectureNotes.map((ln, i) => (
@@ -337,15 +330,10 @@ export default function App() {
           </a>
         ))}
       </div>
-
       <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 20, color: "var(--text-secondary)" }}>Reading List</h2>
-
       {curriculum.units.map(unit => (
         <div key={unit.id} style={{ marginBottom: 32 }}>
-          <div
-            onClick={() => setExpandedUnit(expandedUnit === unit.id ? null : unit.id)}
-            style={{ cursor: "pointer", padding: "16px 0", borderBottom: "2px solid var(--border-color)", display: "flex", justifyContent: "space-between", alignItems: "center" }}
-          >
+          <div onClick={() => setExpandedUnit(expandedUnit === unit.id ? null : unit.id)} style={{ cursor: "pointer", padding: "16px 0", borderBottom: "2px solid var(--border-color)", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
             <h3 style={{ fontSize: 20, fontWeight: 400, margin: 0 }}>{unit.id}. {unit.title}</h3>
             <span style={{ fontSize: 14, color: "var(--text-tertiary)", fontFamily: "system-ui, sans-serif", flexShrink: 0, marginLeft: 16 }}>
               {unit.sections.reduce((a, s) => a + s.items.length, 0)} readings {expandedUnit === unit.id ? "▾" : "▸"}
@@ -365,7 +353,6 @@ export default function App() {
           )}
         </div>
       ))}
-
       <div style={{ marginTop: 48, marginBottom: 48 }}>
         <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 20, color: "var(--text-secondary)" }}>Tools & Reference Links</h2>
         {[
@@ -388,7 +375,6 @@ export default function App() {
           </div>
         ))}
       </div>
-
       <div style={{ borderTop: "2px solid var(--border-color)", paddingTop: 24, marginTop: 32 }}>
         <p style={{ fontSize: 14, color: "var(--text-tertiary)", fontFamily: "system-ui, sans-serif", lineHeight: 1.7 }}>
           <strong style={{ color: "var(--text-secondary)" }}>Mikel Ayala</strong> — Visiting Professor, College of Europe · General Manager Europe, Backpack
