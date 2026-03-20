@@ -15,7 +15,7 @@ The materials deliberately include both advocates and critics. The Bullish Case 
 
 The curriculum is organized in four units: the technological foundations of crypto, the emerging tokenized economy, the crowd psychology and narrative economics that drive financial markets, and the digital asset policy frameworks being built around the world. Each unit combines foundational research, books, essays, manifestos, and video resources.
 
-I maintain and update this curriculum annually based on how the field evolves. It is shared here as a public good. If you find it useful, whether you are a policymaker, a researcher, a journalist, an industry executive, a student, or simply someone trying to make sense of this space, you are welcome to use it, share it, and build on it.`
+I maintain and update this curriculum based on how the field evolves. It is shared here as a public good. If you find it useful, whether you are a policymaker, a researcher, a journalist, an industry executive, a student, or simply someone trying to make sense of this space, you are welcome to use it, share it, provide feedback, and build on it.`
   },
   lectureNotes: [
     { unit: "Unit 1", title: "Introduction and Crypto Fundamentals", topics: "Innovation and Technology Paradigm Shifts · Introduction to Bitcoin · Crypto and Price-Innovation Cycles · Programmable Blockchains", url: "https://drive.google.com/file/d/1JPGNpOLESBV7sRj0sNd3Dmej3_qZlFmo/view" },
@@ -283,7 +283,7 @@ export default function App() {
           <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 16, color: "var(--text-secondary)" }}>About</h2>
           <div style={{ fontSize: 16, lineHeight: 1.7, color: "var(--text-secondary)", fontFamily: "system-ui, sans-serif" }}>
             <p style={{ marginBottom: 16 }}>I build, scale, and operate technology-driven financial businesses in regulated markets.</p>
-            <p style={{ marginBottom: 16 }}>Currently leading Backpack's expansion into Europe, from pre-launch to live operations across the European Economic Area under MiFID II. Previously, I built and scaled distribution for Atani, a regulated European virtual assets service provider. Earlier, I led transformation programs and digital business building initiatives for global financial institutions as a Managing Director at The Cocktail (WPP) and as a strategy consultant at Boston Consulting Group.</p>
+            <p style={{ marginBottom: 16 }}>Currently leading Backpack's expansion into Europe, from pre-launch to live operations across the European Economic Area under MiFID II and more. Previously, I built and scaled distribution for Atani, a regulated European virtual assets service provider. Earlier, I led transformation programs and digital business building initiatives for global financial institutions as a Managing Director at The Cocktail (WPP) and as a strategy consultant at Boston Consulting Group.</p>
             <p>At the College of Europe, I introduce future European policymakers and regulators to digital assets, programmable blockchains, decentralized finance, tokenization, and global crypto policy frameworks. The full curriculum is <span onClick={() => setPage("curriculum")} style={{ textDecoration: "underline", cursor: "pointer", color: "var(--text-primary)" }}>available as a public resource</span>.</p>
           </div>
         </div>
