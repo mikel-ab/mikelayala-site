@@ -274,7 +274,7 @@ export default function App() {
         {nav}
         <h1 style={{ fontSize: 36, fontWeight: 400, marginBottom: 8, lineHeight: 1.2 }}>Mikel Ayala</h1>
         <p style={{ fontSize: 16, color: "var(--text-secondary)", marginBottom: 40, lineHeight: 1.6, fontFamily: "system-ui, sans-serif" }}>
-          General Manager for Europe at <a href="https://backpack.exchange" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>Backpack</a>, a regulated digital assets exchange and self-custodial wallet. Visiting Professor of Digital Assets at the <a href="https://www.coleurope.eu" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>College of Europe</a> in Bruges. Ambassador of the <a href="https://solana.org" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>Solana Foundation</a>.
+          General Manager at <a href="https://backpack.exchange" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>Backpack</a>, a regulated digital assets exchange and self-custodial wallet. Visiting Professor of Digital Assets at the <a href="https://www.coleurope.eu" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>College of Europe</a> in Bruges. Ambassador of the <a href="https://solana.org" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)" }}>Solana Foundation</a>.
         </p>
         <div style={{ marginBottom: 48 }}>
           <h2 style={{ fontSize: 14, fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", fontFamily: "system-ui, sans-serif", marginBottom: 16, color: "var(--text-secondary)" }}>About</h2>
@@ -377,7 +377,7 @@ export default function App() {
       </div>
       <div style={{ borderTop: "2px solid var(--border-color)", paddingTop: 24, marginTop: 32 }}>
         <p style={{ fontSize: 14, color: "var(--text-tertiary)", fontFamily: "system-ui, sans-serif", lineHeight: 1.7 }}>
-          <strong style={{ color: "var(--text-secondary)" }}>Mikel Ayala</strong> — Visiting Professor, College of Europe · General Manager Europe, Backpack
+          <strong style={{ color: "var(--text-secondary)" }}>Mikel Ayala</strong> — Visiting Professor, College of Europe · General Manager, Backpack
         </p>
         <div style={{ fontSize: 14, fontFamily: "system-ui, sans-serif", marginTop: 8 }}>
           <a href="https://www.linkedin.com/in/mikel-ayala/" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-primary)", textDecoration: "none" }}>LinkedIn</a>{" · "}
