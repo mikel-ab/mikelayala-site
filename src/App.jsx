@@ -16,10 +16,10 @@ The curriculum is organized in four units: the technological foundations of cryp
 I maintain and update this curriculum annually based on how the field evolves. It is shared here as a public good. If you find it useful, whether you are a policymaker, a researcher, a journalist, an industry executive, a student, or simply someone trying to make sense of this space, you are welcome to use it, share it, provide feedback, and build on it.`
   },
   lectureNotes: [
-    { unit: "Unit 1", title: "Introduction and Crypto Fundamentals", topics: "Innovation and Technology Paradigm Shifts · Introduction to Bitcoin · Crypto and Price-Innovation Cycles · Programmable Blockchains", url: "https://drive.google.com/file/d/1JPGNpOLESBV7sRj0sNd3Dmej3_qZlFmo/view" },
+    { unit: "Unit 1", title: "Introduction and Crypto Fundamentals", topics: "Innovation and Technology Paradigm Shifts · Introduction to Bitcoin · Crypto and Price-Innovation Cycles · Programmable Blockchains", url: "https://drive.google.com/file/d/1rreU3pjPBLPyDU5KT2o0-Rt5fVm2OCwE/view" },
     { unit: "Unit 2", title: "Tokenized Economy", topics: "Onchain Finance · Onchain Governance, DAOs & Prediction Markets · Onchain Identity, NFTs, Memecoins & AI Agents", url: "https://drive.google.com/file/d/1K1QTIPDt-HVcxFDy6eGvb5RcWsUY6SZQ/view" },
-    { unit: "Unit 3", title: "Online Communities & Meme Investing", topics: "Online Subcultures & Crowd Psychology · Narrative Economics & Meme Investing · Case Study: r/wallstreetbets vs. GameStop", url: "https://drive.google.com/file/d/1sGh4sHyyZ-16yaid9DygcH4u-2cArw1m/view" },
-    { unit: "Unit 4", title: "Digital Assets Policy", topics: "MiCA and the Digital Euro · Regulatory Frameworks Around the World · Geopolitics of Digital Assets · Nation States vs. Network States", url: "https://drive.google.com/file/d/1O7fsl--Er1lBYMrpm2uOgFKigISarSh6/view" }
+    { unit: "Unit 3", title: "Online Communities & Meme Investing", topics: "Online Subcultures & Crowd Psychology · Narrative Economics & Meme Investing · Case Study: r/wallstreetbets vs. GameStop", url: "https://drive.google.com/file/d/12RT8v0z7Y25bHhv3f2RavxIt1BZ15HlD/view" },
+    { unit: "Unit 4", title: "Digital Assets Policy", topics: "MiCA and the Digital Euro · Regulatory Frameworks Around the World · Geopolitics of Digital Assets · Nation States vs. Network States", url: "https://drive.google.com/file/d/1VPe5p3YcZqqhzlJQdi0MMipav5C9gh2n/view" }
   ],
   units: [
     {
